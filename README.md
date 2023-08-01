@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Ananya Mishra</h1>
-<h3 align="center">Pre-final year student | Aspiring JS-Developer | Competitive Programmer</h3>
+<h3 align="center">Pre-final year student | Aspiring Web developer | Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyamishra08&label=Profile%20views&color=0e75b6&style=flat" alt="ananyamishra08" /> </p>
 
