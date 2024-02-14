@@ -11,11 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://github.com/Ananyamishra08" target="blank"><img align="center" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ananya-mishra-5b45591b5/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13930&format=png" alt="https://www.linkedin.com/in/ananya-mishra-5b45591b5/" height="30" width="40" /></a>
-<a href="https://github.com/Ananyamishra08" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/25/25231.png" alt="github" height="30" width="40" /></a>
- <a href="https://leetcode.com/ananya_annie/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3627112-3029520.png"  height="30" width="40" /></a>
-</p>
 <a href="https://www.hackerrank.com/profile/b221010" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" height="30" width="40" /></a>
+<a href="https://leetcode.com/ananya_annie/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" height="30" width="40" /></a>
+</p>
 <!-- <a href="https://www.codechef.com/users/https://www.codechef.com/users/ananya_annie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ananya_annie" height="30" width="40" /></a>
  -->
 
