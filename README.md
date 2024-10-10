@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyamishra08&label=Profile%20views&color=0e75b6&style=flat" alt="ananyamishra08" /> </p>
 
-- 🌱 I’m currently learning **Mongoose ,Nodejs, Express js**
+- 🌱 I’m currently learning **Django and Rest framework**
 
 - 💬 About Me **Embrace the exhaustion and never give up!!**
 
