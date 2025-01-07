@@ -1,9 +1,9 @@
 <h1 align="center"> I'm Ananya Mishra</h1>
-<h3 align="center"> final year student | Aspiring Web developer | Competitive Programmer</h3>
+<h3 align="center"> final year student | Aspiring Software developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyamishra08&label=Profile%20views&color=0e75b6&style=flat" alt="ananyamishra08" /> </p>
 
-- 🌱 I’m currently learning **Django and Rest framework**
+- 🌱 I’m currently learning **Node js**
 
 - 💬 About Me **Embrace the exhaustion and never give up!!**
 
