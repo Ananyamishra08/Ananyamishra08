@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **ananya01mishra08@gmail.com**
 
+- 💼 **<a href="https://ananyamishra-portfolio.netlify.app/">Portfolio </a>**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Ananyamishra08" target="blank"><img align="center" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github" height="30" width="40" /></a>
