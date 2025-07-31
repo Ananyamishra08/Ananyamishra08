@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Ananya Mishra</h1>
-<h3 align="center"> final year student | Aspiring Software developer </h3>
+<h3 align="center"> Tech Enthusiast | MERN Stack Developer | Exploring GenAI & Backend Systems </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyamishra08&label=Profile%20views&color=0e75b6&style=flat" alt="ananyamishra08" /> </p>
 
