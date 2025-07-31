@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyamishra08&label=Profile%20views&color=0e75b6&style=flat" alt="ananyamishra08" /> </p>
 
-- 🌱 I’m currently learning **Node js**
+### 👩‍💻 About Me
 
-- 💬 About Me **Embrace the exhaustion and never give up!!**
+- 🌱 **Currently Learning:** *Node.js • Generative AI (LLMs, Hugging Face, LangChain)*  
+- 💬 **About Me:** *Embrace the exhaustion and never give up!!*  
+- 📫 **Reach Me At:** *ananya01mishra08@gmail.com*  
+- 💼 **Portfolio:** [ananyamishra-portfolio.netlify.app](https://ananyamishra-portfolio.netlify.app/)
 
-- 📫 How to reach me **ananya01mishra08@gmail.com**
-
-- 💼 **<a href="https://ananyamishra-portfolio.netlify.app/">Portfolio </a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
