@@ -6,10 +6,10 @@
 ### About Me
 
 - 🌱 **Currently Learning:**  *Node.js • Generative AI (LLMs, Hugging Face, LangChain)*  
-- 💬 **About Me:**  *Embrace the exhaustion and never give up!!*  
+- 💬 **Bio:**  *Embrace the exhaustion and never give up!!*  
 - 📫 **Reach Me At:**  *ananya01mishra08@gmail.com*  
 - 💼 **Portfolio:** [ananyamishra-portfolio.netlify.app](https://ananyamishra-portfolio.netlify.app/)
-- 👩‍💻 **Education** Btech - IIIT Bhubaneswar | 2025
+- 👩‍💻 **Education:** Btech - IIIT Bhubaneswar | 2025
 
 
 <h3 align="left">Connect with me:</h3>
